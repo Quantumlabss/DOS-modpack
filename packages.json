@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "DOS-Death Of Sauron",
+      "name" : "DOS-Death Of Sauron",
+      "version" : "1.2.0",
+      "location" : "dos-death-of-sauron.json",
+      "priority" : 0
+    }
+  ]
+}
